@@ -1,0 +1,89 @@
+body {
+    background-color: #c8e6c9;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    color:black;
+}
+    
+header{
+    background-image: url("sources/fondo.jpeg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+    color:white;
+    }
+
+.mi-foto {
+    border: 4px solid #a5d6a7;
+    border-radius: 10px;
+}
+
+
+i {
+    margin-right: 5px;
+    color: #2e7d32; /* verde que combina */
+}
+
+
+nav {
+    background-color: #a5d6a7;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+    text-align: center;
+}
+
+/* enlaces base */
+nav a {
+    margin: 0 10px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* ORDEN CORRECTO */
+nav a:link {
+    color: #1b5e20;
+}
+
+nav a:visited {
+    color: #1b5e20;
+}
+
+nav a:hover {
+    color: #17ff22;
+    text-decoration: underline;
+}
+
+nav a:active {
+    color: #0d3b12;
+}
+
+
+
+header {
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+/*Footer*/
+
+.formulario a {
+    text-decoration: none; 
+    color: #0077cc;
+}
+
+.formulario a:hover {
+    text-decoration: underline; 
+    color: #005fa3; 
+}
+
+.formulario a:active {
+    color: #003f73; 
+}
+
+.formulario a:visited {
+    color: #6a5acd; 
+}
