@@ -79,8 +79,8 @@ A continuación, se presentan capturas de pantalla que evidencian el correcto fu
 
 
 ```markdown
-![sobre mí](captures/sobre-mi.png)
-![inicio](captures/inicio.png)
+![sobre mi](./captures/sobre-mi.png)
+![inicio](./captures/inicio.png)
 ```
 
 ---
