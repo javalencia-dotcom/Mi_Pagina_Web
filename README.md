@@ -112,6 +112,3 @@ El enfoque del proyecto está orientado a la comprensión de los fundamentos del
 
 Jaime Eduardo Valencia Bosquez
 
-## Autor
-
-Jaime Eduardo Valencia Bosquez
