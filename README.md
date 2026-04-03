@@ -80,7 +80,7 @@ A continuación, se presentan capturas de pantalla que evidencian el correcto fu
 
 ![inicio](https://raw.githubusercontent.com/javalencia-dotcom/Mi_Pagina_Web/main/captures/inicio.png)
 ![sobre mi](https://raw.githubusercontent.com/javalencia-dotcom/Mi_Pagina_Web/main/captures/sobre-mi.png)
-```
+
 
 ---
 
